@@ -1,2 +1,3 @@
 # Hello-World
-Hello world repository
+###My First Repo
+This is my Hello-World repository.
